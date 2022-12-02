@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "w9KdiKHWAHQsv+fPUwfhOaLkT+d41zSuWQdtnBkEgx0=",
+  "Source": "WebApiLoteria",
+  "BasePath": "_content/WebApiLoteria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiLoteria\\wwwroot",
+      "Source": "WebApiLoteria",
+      "ContentRoot": "C:\\Users\\Céssar García\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\Programacion\\C#\\PIA Backend\\PiaBackEnd\\WebApiLoteria\\wwwroot\\",
+      "BasePath": "_content/WebApiLoteria",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Céssar García\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\Programacion\\C#\\PIA Backend\\PiaBackEnd\\WebApiLoteria\\wwwroot\\Registros.txt",
+      "SourceId": "WebApiLoteria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Céssar García\\OneDrive - Universidad Autonoma de Nuevo León\\Documents\\Programacion\\C#\\PIA Backend\\PiaBackEnd\\WebApiLoteria\\wwwroot\\",
+      "BasePath": "_content/WebApiLoteria",
+      "RelativePath": "Registros.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Registros.txt"
+    }
+  ]
+}
